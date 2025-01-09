@@ -1,0 +1,9 @@
+dtype: float16
+merge_method: linear
+models:
+- model: /dir to model/Qwen2.5-Coder-7B-Instruct
+  parameters:
+    weight: ''
+- model: /dir to model/Qwen2.5-Coder-7B
+  parameters:
+    weight: ''

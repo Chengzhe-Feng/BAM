@@ -1,0 +1,9 @@
+[console_scripts]
+bakllama = mergekit.scripts.bakllama:main
+mergekit-extract-lora = mergekit.scripts.extract_lora:main
+mergekit-layershuffle = mergekit.scripts.layershuffle:main
+mergekit-legacy = mergekit.scripts.legacy:main
+mergekit-mega = mergekit.scripts.megamerge:main
+mergekit-moe = mergekit.scripts.mixtral_moe:main
+mergekit-tokensurgeon = mergekit.scripts.tokensurgeon:main
+mergekit-yaml = mergekit.scripts.run_yaml:main
